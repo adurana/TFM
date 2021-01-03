@@ -2,7 +2,9 @@
 En este repositorio se encuentran los ficheros generados durante el TFM
 
 -BD_ARGs.csv: Base de datos de genes resistentes a antibiótico
+
 -secuencias.fasta: Secuencias de nucleótidos de los genes de la base de datos
+
 -ARGtDB.fasta: Secuencias de proteinas homólogas de los genes de la base de datos
 -mgrastweb_1.txt: Información de la primera búsqueda en MG-RAST
 -mgrastweb_2.txt: Información de la segunda búsqueda en MG-RAST
