@@ -2,6 +2,10 @@
 
 En este repositorio se encuentran los ficheros generados durante el TFM
 
+-PEC4_Memoria_TFM_Durana_Aritz.pdf: La memoria del TFM
+
+-PEC5_Presentacion_TFM_Durana_Aritz.pdf: La presentación del TFM
+
 -BD_ARGs.csv: Base de datos de genes resistentes a antibiótico
 
 -secuencias.fasta: Secuencias de nucleótidos de los genes de la base de datos
